@@ -1,6 +1,6 @@
 # sugarlabs-porting-list
 
-### The list of activities that requires porting to GTK3 and GST 1.10.
+### The list of activities that requires porting to GTK3 and GST 1.0.
 
 GTK2 and GST0.10 are end of life. We need to upgrade the remaining activities with these dependencies.
 Status is as of 17/03/18

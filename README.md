@@ -7,7 +7,7 @@ Status is as of 17/03/18
 
 |                                                   |                 |                 |                                                          | 
 |---------------------------------------------------|-----------------|-----------------|----------------------------------------------------------| 
-| Activities name                                   | Shortlist       | Works on Fedora | Type                                                     | 
+| Activities name                                   | Shortlist       | Works on Fedora | Type/error                                                     | 
 | sugarlabs/activity-erikos                         |                 | yes             | produce sound of animal on clicking,                     | 
 | sugarlabs/activity-turtle-confusion               | yes             | yes             | complex maths activity                                   | 
 | sugarlabs/activity-turtle-flags                   | yes             | yes             | similar to previous but flags                            | 

@@ -52,14 +52,14 @@ Status is as of 17/03/18
 | sugarlabs/i-can-read-activity                     | yes             |                 |                                                          | 
 | sugarlabs/iknowEditor                             |                 |                 | I don't understand                                       | 
 | sugarlabs/iknowmyabcs                             | yes             |                 |                                                          | 
-| sugarlabs/jam-clock-activity                      |                 |                 | useless                                                  | 
+| sugarlabs/jam-clock-activity                      |                 |                 |                                                   | 
 | sugarlabs/jam-media-explorer-activity             |                 |                 |                                                          | 
 | sugarlabs/jam-tank-activity                       |                 |                 |                                                          | 
 | sugarlabs/jamedia-imagenes-activity               |                 |                 |                                                          | 
 | sugarlabs/jamedia-tube-activity                   |                 |                 |                                                          | 
 | sugarlabs/JClic                                   |                 |                 |                                                          | 
 | sugarlabs/jigsaw-puzzle-branch                    | yes             |                 |                                                          | 
-| sugarlabs/Kiwix                                   | yes             |                 | not preffered but okay                                   | 
+| sugarlabs/Kiwix                                   | yes             |                 |                                   | 
 | sugarlabs/laybrinth-activity                      | yes             |                 |                                                          | 
 | sugarlabs/Lemonade                                |                 |                 | I don't understand                                       | 
 | sugarlabs/moon-activity                           | yes             |                 |                                                          | 
